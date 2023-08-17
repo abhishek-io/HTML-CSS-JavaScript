@@ -1,0 +1,1 @@
+document.getElementById("one").innerHTML="This is dynamic data";

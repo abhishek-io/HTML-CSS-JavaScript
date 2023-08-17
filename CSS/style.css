@@ -1,0 +1,10 @@
+        /* body{
+            background-color: rgb(33, 29, 236);
+            } */
+            #first{
+                background-color:aqua;
+            }
+            .bg-blue{
+                background-color:blue;
+                color:red;
+            }
